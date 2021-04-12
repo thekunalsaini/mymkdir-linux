@@ -1,0 +1,22 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myMkdir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "myMkdir": "myMkdir.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Navneetkumarchoudhary/Git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Navneetkumarchoudhary/Git/issues"
+  },
+  "homepage": "https://github.com/Navneetkumarchoudhary/Git#readme"
+}
